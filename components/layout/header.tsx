@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export function Header() {
   return (
-    <header className="flex h-[100px] w-full items-center bg-[#1A1A1A] px-6 md:h-[180px] md:px-4">
+    <header className="flex h-[100px] w-full items-center bg-[#1A1A1A] px-6 md:h-[180px] md:px-30">
       <div className="mx-auto flex w-full items-center justify-between md:max-w-[1440px]">
         <Link href="/" className="flex items-center gap-2">
           <Image

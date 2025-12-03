@@ -3,7 +3,7 @@ import { ChevronRightIcon } from "lucide-react";
 
 export function GospelSection() {
   return (
-    <section className="bg-black px-6 py-12">
+    <section className="bg-black px-6 py-12 md:px-30">
       <div className="mx-auto flex h-full max-w-[1440px] flex-col items-center space-y-8">
         {/* Title */}
         <div className="flex flex-col items-center justify-center gap-2">
