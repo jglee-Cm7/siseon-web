@@ -70,7 +70,6 @@ export function CommunitySection() {
 
               {/* Content */}
               <div className="flex flex-col gap-16 md:flex-row">
-                {/* Right Main Content */}
                 <div className="flex flex-1 flex-col justify-between gap-8">
                   {/* Title */}
                   <span className="text-[16px] font-bold text-[#1A1A1A] md:text-2xl">

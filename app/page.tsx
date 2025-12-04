@@ -3,6 +3,9 @@ import {
   HeroSection,
   StorySection,
   CommunitySection,
+  CitySection,
+  WelcomeSection,
+  LocationSection,
 } from "@/components/features/home";
 
 export default function Home() {
@@ -12,6 +15,9 @@ export default function Home() {
       <StorySection />
       <GospelSection />
       <CommunitySection />
+      <CitySection />
+      <WelcomeSection />
+      <LocationSection />
     </>
   );
 }
