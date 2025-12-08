@@ -22,7 +22,7 @@ const eslintConfig = defineConfig([
   {
     rules: {
       "import/no-anonymous-default-export": "off",
-      "tailwindcss/no-custom-classname": "warn",
+      "tailwindcss/no-custom-classname": "off",
       "tailwindcss/classnames-order": "warn",
     },
   },
