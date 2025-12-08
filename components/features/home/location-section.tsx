@@ -1,10 +1,8 @@
 import { cn } from "@/lib/utils";
-import { ChevronRightIcon, PhoneIcon } from "lucide-react";
-import Image from "next/image";
 
 export function LocationSection() {
   return (
-    <section className="bg-[url('/images/background.avif')] md:max-h-[800px]">
+    <section className="bg-[url('/images/background.avif')]">
       <div className="h-full bg-white/90 px-6 py-12 md:px-30 md:py-24">
         <div className="mx-auto max-w-[1440px]">
           <div className="flex h-full flex-col items-center justify-center gap-6">

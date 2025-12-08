@@ -1,6 +1,6 @@
 export function StorySection() {
   return (
-    <section className="h-[calc(100dvh-180px)] max-h-[650px] bg-[url('/images/background.avif')] md:max-h-[760px]">
+    <section className="bg-[url('/images/background.avif')] ">
       <div className="h-full bg-white/90 px-6 py-12 md:px-30">
         <div className="mx-auto h-full max-w-[1440px]">
           <div className="flex h-full flex-col justify-around">

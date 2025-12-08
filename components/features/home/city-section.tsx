@@ -1,6 +1,3 @@
-import Image from "next/image";
-import { ChevronRightIcon } from "lucide-react";
-
 export function CitySection() {
   return (
     <section className="bg-[url('/images/background-city.avif')] bg-cover bg-bottom">
